@@ -1,0 +1,11 @@
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\bin\Debug\A2 Courswork.exe.config
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\bin\Debug\A2 Courswork.exe
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\bin\Debug\A2 Courswork.pdb
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2 Courswork.csprojResolveAssemblyReference.cache
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2_Courswork.MainMenu.resources
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2_Courswork.Properties.Resources.resources
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2_Courswork.ThemedParties.resources
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2 Courswork.csproj.GenerateResource.Cache
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2 Courswork.exe
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2 Courswork.pdb
+H:\Computing\Courswork\12.05.2017\A2 Courswork\A2 Courswork\obj\Debug\A2_Courswork.AMMMenu.resources
